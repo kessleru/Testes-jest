@@ -1,7 +1,8 @@
 # Testes-jest (Jest + ES Modules)
 
 Estudo em cima da documentação do jest usando sintaxe ES Modules (`import/export`) em JavaScript.
-![Jest Docs](https://img.shields.io/badge/-Jest%20Docs-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117&logoColor=C21325)
+
+[![Jest Docs](https://img.shields.io/badge/-Jest%20Docs-151b23?style=for-the-badge&logo=jest&labelColor=262c36&logoColor=C21325)](https://jestjs.io/pt-BR/)
 
 ## Pré-requisitos
 
